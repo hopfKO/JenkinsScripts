@@ -11,6 +11,6 @@ node {
       }
    }
    stage('Results') {
-      echo 'Hello Results!'
+      echo 'Hello Results'
    }
 }
